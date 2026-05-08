@@ -3,3 +3,4 @@
 -Trade On Base
 -Swap On Base 
 -Engage With Base
+-Bullish On Base
