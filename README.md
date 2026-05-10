@@ -5,5 +5,5 @@
 -Engage With Base
 -Bullish On Base
 -Love With Base.
--Bdrige on base
+-Bdrige on base dapps
 
