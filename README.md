@@ -1,6 +1,6 @@
 # Building-base-ecosystem
 
--Trade On Base
+-Trade On Base.
 -Swap On Base.
 -Engage With Base.
 -Bullish On Base.
