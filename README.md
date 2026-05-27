@@ -7,4 +7,4 @@
 -Love With Base.
 -Bdrige on base dapps.
 -collect Nft.
--Gm with bas
+-Gm with base
