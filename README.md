@@ -8,4 +8,4 @@
 -Bdrige on base dapps.
 -collect Nft.
 -Gm with base.
-Gn with ba
+Gn with bas
