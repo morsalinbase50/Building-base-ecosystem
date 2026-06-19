@@ -9,4 +9,4 @@
 -collect Nft.
 -Gm with base.
 -Gn with base.
--Active with bas
+-Active with base
