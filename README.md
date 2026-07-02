@@ -11,4 +11,4 @@
 -Gn with base.
 -Active with base.
 -connect with b
-collaborate
+collaborate w
